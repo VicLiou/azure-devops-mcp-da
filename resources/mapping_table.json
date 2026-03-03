@@ -1,0 +1,27 @@
+{
+    "MANAGER_MAPPING": {
+        "資訊發展科": "小潘潘",
+        "測試發展科": "張三豐",
+        "技術發展科": "李四",
+        "運營發展科": "王五",
+        "數據發展科": "莫文蔚"
+    },
+    "MEMBER_MAPPING": {
+        "陳佳澤": {
+            "department": "數據發展科"
+        },
+        "柳宏達": {
+            "department": "資訊發展科"
+        }
+    },
+    "PROJECT_MAPPING": {
+        "PROJECT-001": {
+            "apid": "PROJECT-001",
+            "apid_name": "專案一"
+        },
+        "PROJECT-002": {
+            "apid": "PROJECT-002",
+            "apid_name": "專案二"
+        }
+    }
+}
